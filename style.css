@@ -1,14 +1,25 @@
 
 figure {
-    display: inline-block;
-    border: 1px dotted gray;
-    margin: 20px; 
+   /* display: inline-block;*/
+   /* border: 1px dotted gray;*/
+    /*margin: 20px; */
+    width:70%;
 }
 
 figure img {
     vertical-align: top;
+    
 }
 figure figcaption {
-    border: 1px dotted blue;
+    /*border: 1px dotted blue;*/
     text-align: center;
+}
+
+p {
+    /*color:red;*/
+    text-align: center;
+}
+
+h1 {
+    text-align:center;
 }
