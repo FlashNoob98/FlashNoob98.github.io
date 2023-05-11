@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\Q<image> <img src=\"testAnimated_compressed.gif\" style=\"width:80%;\"> <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption> </image> </body> </html>\\E$"}
