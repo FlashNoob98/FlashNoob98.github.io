@@ -14,6 +14,7 @@ figure {
    /*border: 1px dotted gray;*/
     margin: auto;
     width:100%;
+    max-width: 900px;
     text-align: center;
 }
 
